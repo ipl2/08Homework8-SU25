@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: ipl2/devops_demo:latest
+          tags: ipl2/homework08:latest
 
           # Add other relevant build parameters here
